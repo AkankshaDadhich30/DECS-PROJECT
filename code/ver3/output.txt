@@ -1,0 +1,12 @@
+Number of clients : 4  Loop Number : 2  Sleep Time : 2
+Overall Throughput :  requests/second
+Average Response Time :  seconds
+Number of successful responses : 
+Number of clients : 4  Loop Number : 2  Sleep Time : 2
+Overall Throughput :  requests/second
+Average Response Time :  seconds
+Number of successful responses : 8
+Number of clients : 4  Loop Number : 2  Sleep Time : 2
+Overall Throughput :  requests/second
+Average Response Time :  seconds
+Number of successful responses : 8
